@@ -87,7 +87,7 @@ Currently exploring different fields of programming from mobile apps to game dev
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-05080F?style=for-the-badge&logo=github&logoColor=00F5FF)](https://dexo-dev.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-05080F?style=for-the-badge&logo=github&logoColor=00F5FF)](https://dexo-dev.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-05080F?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:abdellahtiznit1971@gmail.com)
 [![Google Play](https://img.shields.io/badge/Google_Play-05080F?style=for-the-badge&logo=googleplay&logoColor=00F5FF)](https://play.google.com/store/apps/details?id=com.dexodev.cyberbounce)
 
