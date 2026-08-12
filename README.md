@@ -1,5 +1,3 @@
-### 👤 About Me
-
 Undergraduate student at **Northwestern Polytechnical University, China 🇨🇳**, originally from **Morocco 🇲🇦**.
 
 Currently exploring different fields of programming from mobile apps to game development and turning what I learn into real shipped projects.
